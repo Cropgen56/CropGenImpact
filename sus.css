@@ -1,0 +1,1193 @@
+.rectangle-icon-7 {
+  width: 1265px;
+  height: 512px;
+  position: relative;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+}
+
+
+.at-cropgen-sustainability-7,
+.sustainability1-7 {
+  width: 1265px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+
+
+.sustainability1-7 {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: var(--font-secondary);
+}
+.at-cropgen-sustainability-7 {
+  font-size: 20px;
+  font-weight: 550;
+}
+.frame-7 {
+  width: 1518px;
+  margin: 0 !important;
+  position: absolute;
+  top: -405px;
+  right: -742px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 158px 20px 183px 21px;
+  box-sizing: border-box;
+  gap: 23px;
+  background-image: url(./public/rectangle@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-height: 512px;
+}
+
+.frame-7::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(58, 54, 102, 0.4);
+  z-index: 1;
+
+}
+
+.frame-child-7 {
+  height: 914px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.frame-parent-7 {
+  width: 763px;
+  margin: 0 !important;
+  position: absolute;
+  top: 405px;
+  left: 14px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.key-initiatives-rectangle-child-7 {
+  width: 728px;
+  height: 840px;
+  position: relative;
+  border-radius: 5px;
+  background-color: #fff;
+  display: none;
+  max-width: 100%;
+}
+.key-initiatives-of {
+  margin: 0;
+  align-self: stretch;
+  height: 71px;
+  position: relative;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: var(--font-secondary);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.precision-agriculture-for {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.span,
+.targeted-interventions {
+  font-family: Montserrat;
+}
+.targeted-interventions-by-usi {
+  margin: 0;
+}
+.real-time-data {
+  font-family: Montserrat;
+}
+.real-time-data-access-to-real {
+  margin: 0;
+}
+.targeted-interventions-by-usi-container {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.key-initiatives-description,
+.precision-agriculture-descript {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.precision-agriculture-descript {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 1px;
+  box-sizing: border-box;
+}
+.key-initiatives-description {
+  width: 543px;
+  flex-direction: column;
+  gap: 10px;
+  color: #f1c05e;
+}
+.sustainable-crop-rotation {
+  align-self: stretch;
+  position: relative;
+  line-height: 24px;
+  z-index: 1;
+}
+.crop-rotation-plans {
+  font-family: Montserrat;
+}
+.crop-rotation-plans-we-provid {
+  margin: 0;
+}
+.cropgen-advises-on,
+.intercropping-techniques {
+  font-family: Montserrat;
+}
+.intercropping-techniques-crop {
+  margin: 0;
+}
+.crop-rotation-plans-we-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 24px;
+  z-index: 1;
+}
+.sustainable-crop-rotation-and-parent-7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.renewable-energy-integration {
+  width: 344px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  z-index: 1;
+}
+.solar-powered-solutions {
+  font-family: Montserrat;
+}
+.solar-powered-solutions-cropg1 {
+  margin: 0;
+}
+.energy-efficient-technologies1 {
+  font-family: Montserrat;
+}
+.energy-efficient-technologies {
+  margin: 0;
+}
+.solar-powered-solutions-cropg {
+  align-self: stretch;
+  position: relative;
+  line-height: 24px;
+  z-index: 1;
+}
+.renewable-energy-description {
+  width: 542px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  max-width: 100%;
+  color: #f1c05e;
+}
+.key-initiatives-rectangle-7,
+.key-initiatives-rectangle-wrapper-7 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.key-initiatives-rectangle-7 {
+  width: 728px;
+  border-radius: 5px;
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 50px 52px 68px 110px;
+  gap: 23px;
+  z-index: 2;
+}
+.key-initiatives-rectangle-wrapper-7 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 0 11px;
+  font-size: 16px;
+  font-family: Montserrat;
+}
+.our-approach-to {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: var(--font-secondary);
+}
+.resource-efficiency {
+  width: 344px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.resource-efficiency-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 0 363px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.clip-path-group-7 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.water-management-description {
+  height: 411px;
+  width: 566px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2px 0 0;
+  box-sizing: border-box;
+  min-width: 566px;
+  max-width: 100%;
+}
+.water-conservation {
+  font-family: var(--font-secondary);
+}
+.water-conservation-our-remote {
+  margin: 0;
+}
+.nutrient-management {
+  font-family: var(--font-secondary);
+}
+.nutrient-management-cropgens {
+  margin: 0;
+}
+.water-conservation-our-remote-container {
+  align-self: stretch;
+  position: relative;
+}
+.sustainable-soil-management {
+  width: 344px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.soil-health-monitoring {
+  font-family: Montserrat;
+}
+.soil-health-monitoring-contin {
+  margin: 0;
+}
+.organic-carbon-enhancement {
+  font-family: Montserrat;
+}
+.organic-carbon-enhancement-cr {
+  margin: 0;
+}
+.soil-health-monitoring-contin-container {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  max-width: 100%;
+}
+.soil-monitoring-description {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 6px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.soil-management-description,
+.water-conservation-description {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.soil-management-description {
+  width: 571px;
+  gap: 23px;
+  color: #075a53;
+  font-family: Montserrat;
+}
+.water-conservation-description {
+  flex: 1;
+  gap: 40px;
+  min-width: 417px;
+}
+.water-management-description-parent-7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 75px;
+  max-width: 100%;
+  font-family: var(--font-secondary);
+}
+.frame-container-7 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 10px;
+  text-align: left;
+  font-size: 16px;
+  color: #f1c05e;
+  font-family: Montserrat;
+}
+.frame-container-7,
+.frame-wrapper-7,
+.our-approach-to-sustainability-parent-7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.our-approach-to-sustainability-parent-7 {
+  flex: 1;
+  flex-direction: column;
+  gap: 15px;
+}
+.frame-wrapper-7 {
+  width: 1293px;
+  flex-direction: row;
+  padding: 0 5px;
+  box-sizing: border-box;
+  text-align: center;
+}
+.climate-change-mitigation {
+  width: 357px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.carbon-footprinting {
+  font-family: var(--font-secondary);
+}
+.carbon-footprinting-our-advan {
+  margin: 0;
+}
+.methane-emissions-management1 {
+  font-family: var(--font-secondary);
+}
+.methane-emissions-management {
+  margin: 0;
+}
+.carbon-footprinting-our-advan-container {
+  align-self: stretch;
+  position: relative;
+}
+.biodiversity-conservation {
+  width: 357px;
+  position: relative;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.habitat-preservation {
+  font-family: Montserrat;
+}
+.habitat-preservation-cropgen {
+  margin: 0;
+}
+.pollinator-health {
+  font-family: Montserrat;
+}
+.pollinator-health-our-solutio {
+  margin: 0;
+}
+.habitat-preservation-cropgen-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 24px;
+}
+.biodiversity-description {
+  align-self: stretch;
+  gap: 10px;
+  color: #075a53;
+  font-family: Montserrat;
+}
+.biodiversity-description,
+.carbon-footprint-description-inner,
+.carbon-footprinting-our-advan-parent-7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.carbon-footprinting-our-advan-parent-7 {
+  align-self: stretch;
+  gap: 26px;
+}
+.carbon-footprint-description-inner {
+  flex: 1;
+  padding: 12px 0 0;
+  box-sizing: border-box;
+  min-width: 404px;
+}
+.clip-path-group1-7 {
+  height: 386px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 402px;
+}
+.carbon-footprint-description {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 42px;
+  margin-top: -2px;
+  font-family: var(--font-secondary);
+}
+.carbon-footprint-description,
+.climate-change-mitigation-parent-7,
+.frame-div-7 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.climate-change-mitigation-parent-7 {
+  flex: 1;
+  flex-direction: column;
+}
+.frame-div-7 {
+  width: 1293px;
+  flex-direction: row;
+  padding: 0 5px;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: #f1c05e;
+  font-family: Montserrat;
+}
+.join-us-icon {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.join-us-in {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: var(--font-secondary);
+  z-index: 1;
+}
+.join-us-in-building-a-sustaina-wrapper {
+  width: 872px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.farmers {
+  font-family: var(--font-secondary);
+}
+.implement-cropgens-sustainabl {
+  font-weight: 500;
+}
+.farmers-implement-cropgens-s {
+  margin: 0;
+}
+.stakeholders {
+  font-family: var(--font-secondary);
+}
+.support-sustainable-agricultur {
+  font-weight: 500;
+}
+.stakeholders-support-sustaina {
+  margin: 0;
+}
+.consumers {
+  font-family: var(--font-secondary);
+}
+.choose-products-from {
+  font-weight: 500;
+}
+.consumers-choose-products-fro {
+  margin: 0;
+}
+.farmers-implement-cropgens-s-container {
+  align-self: stretch;
+  position: relative;
+}
+.get-invilved-child {
+  height: 50px;
+  width: 250px;
+  position: relative;
+  border-radius: 10px 0 10px 0;
+  background-color: #075a53;
+  display: none;
+}
+.get-involved {
+  position: relative;
+  font-size: 16px;
+  display: inline-block;
+  font-family: var(--font-secondary);
+  color: #fff;
+  text-align: left;
+  min-width: 104px;
+  z-index: 1;
+}
+.get-invilved,
+.get-invilved-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.get-invilved {
+  cursor: pointer;
+  border: 0;
+  padding: 13px 73px;
+  background-color: #075a53;
+  border-radius: 10px 0 10px 0;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.get-invilved:hover {
+  background-color: #2e807a;
+}
+.get-invilved-wrapper {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 1px;
+}
+.get-invilved-rectangle-7,
+.join-us-in-builging {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.get-invilved-rectangle-7 {
+  width: 750px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background-color: #fff;
+  align-items: flex-start;
+  position: relative;
+  left: 100px;
+  padding: 30px 41px;
+  gap: 15px;
+  z-index: 1;
+  font-size: 16px;
+  color: #f1c05e;
+}
+.join-us-in-builging {
+  align-self: stretch;
+  align-items: center;
+  padding: 23px 20px;
+  position: relative;
+  gap: 104px;
+}
+.success-story {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.success-story-wrapper {
+  width: 1273px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 5px 7px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+}
+.case-study-1-child {
+  align-self: stretch;
+  height: 280px;
+  position: relative;
+  border-radius: 10px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.a-farming-community {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+}
+.button-1-child {
+  height: 50px;
+  width: 200px;
+  position: relative;
+  border-radius: 0 10px 0 10px;
+  background-color: #f7c35f;
+  display: none;
+}
+.case-study-11 {
+  position: relative;
+  font-size: 18px;
+  display: inline-block;
+  font-family: var(--font-secondary);
+  color: #fff;
+  text-align: left;
+  min-width: 120px;
+  z-index: 1;
+}
+.button-1,
+.button-1-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.button-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 11px 38px 11px 42px;
+  background-color: #f7c35f;
+  border-radius: 0 10px 0 10px;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.button-1:hover,
+.button-2:hover {
+  background-color: #c48f2b;
+}
+.button-1-wrapper {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px;
+}
+.a-farming-community-implemente-parent-7 {
+  width: 414px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 50px;
+  max-width: 100%;
+}
+.case-study-1,
+.case-study-content {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.case-study-content {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+}
+.case-study-1 {
+  flex: 1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background-color: #255946;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 61px;
+  gap: 24px;
+  min-width: 404px;
+}
+.case-study2-child {
+  align-self: stretch;
+  height: 280px;
+  position: relative;
+  border-radius: 10px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.a-large-agribusiness {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+}
+.button-2-child {
+  height: 50px;
+  width: 200px;
+  position: relative;
+  border-radius: 0 10px 0 10px;
+  background-color: #f7c35f;
+  display: none;
+}
+.case-study-2 {
+  position: relative;
+  font-size: 18px;
+  display: inline-block;
+  font-family: var(--font-secondary);
+  color: #fff;
+  text-align: left;
+  min-width: 123px;
+  z-index: 1;
+}
+.button-2,
+.button-2-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.button-2 {
+  cursor: pointer;
+  border: 0;
+  padding: 11px 37px 11px 40px;
+  background-color: #f7c35f;
+  border-radius: 0 10px 0 10px;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.button-2-wrapper {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 20px;
+}
+.a-large-agribusiness-adopted-c-parent-7 {
+  width: 414px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 50px;
+  max-width: 100%;
+}
+.case-study2-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.case-study2,
+.succes-story-rectangle-7 {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.case-study2 {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background-color: #255946;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 61px;
+  box-sizing: border-box;
+  gap: 24px;
+  min-width: 404px;
+}
+.succes-story-rectangle-7 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 19px;
+}
+.succes-story-rectangle-wrapper-7 {
+  width: 1273px;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 5px;
+  box-sizing: border-box;
+  font-size: 12px;
+  color: #fff;
+}
+.frame-group-7,
+.succes-story-rectangle-wrapper-7,
+.sustainability-inner-7 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-group-7 {
+  width: 1313px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 50px;
+  text-align: left;
+  font-size: 30px;
+  color: #075a53;
+  font-family: var(--font-secondary);
+}
+.sustainability-inner-7 {
+  width: 1477px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+.img-icon,
+.wrapper-img {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.img-icon {
+  overflow: hidden;
+  object-fit: contain;
+  transform: scale(1.047);
+}
+.wrapper-img {
+  margin: 0 !important;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  max-height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.get-started-with-n3,
+.to-see-how-7 {
+  position: absolute;
+  margin: 0 !important;
+  left: 30px;
+  display: inline-block;
+}
+.get-started-with-n3 {
+  width: 665px;
+  top: 17px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.to-see-how-7 {
+  width: 421.4px;
+  top: 61px;
+  font-size: 20px;
+  font-weight: 500;
+}
+.frame-inner-7,
+.frame-item-7 {
+  height: 45px;
+  border-radius: 10px;
+}
+.frame-item-7 {
+  width: 413.2px;
+  border: 0;
+  outline: 0;
+  background-color: #fff;
+  margin: 0 !important;
+  position: absolute;
+  top: 97px;
+  left: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11px 51px;
+  box-sizing: border-box;
+  font-family: var(--font-secondary);
+  font-weight: 500;
+  font-size: 16px;
+  color: #a1a1a1;
+}
+.frame-inner-7 {
+  width: 204.5px;
+  position: relative;
+  background-color: #255946;
+  display: none;
+}
+.submit {
+  width: 81.8px;
+  position: relative;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: var(--font-secondary);
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.get-started-with-cropgens-sus-parent-7,
+.rectangle-parent-7{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.rectangle-parent-7 {
+  cursor: pointer;
+  border: 0;
+  padding: 11px 36px;
+  background-color: #255946;
+  width: 204.5px;
+  margin: 0 !important;
+  position: absolute;
+  top: 97px;
+  left: 490.2px;
+  border-radius: 10px;
+  justify-content: flex-end;
+}
+.rectangle-parent-7:hover {
+  background-color: #4d806e;
+}
+.get-started-with-cropgens-sus-parent-7 {
+  height: 189px;
+  width: 725px;
+  border-radius: 18px;
+  background-color: rgba(51, 199, 187, 0.7);
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding: 17px 30px;
+  position: relative;
+  gap: 6px 45px;
+  max-width: 100%;
+  z-index: 1;
+}
+.get-start-7,
+.sustainability-7 {
+  position: relative;
+  display: flex;
+  box-sizing: border-box;
+  color: #fff;
+  font-family: var(--font-secondary);
+}
+.get-start-7 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 54px 385px 55px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 25px;
+}
+.sustainability-7 {
+  width: 100%;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: 509px 0 0;
+  gap: 98px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: -50px;
+}
+@media screen and (max-width: 1200px) {
+  .clip-path-group-7 {
+    align-self: stretch;
+    width: auto;
+  }
+  .water-management-description {
+    flex: 1;
+  }
+  .water-management-description-parent-7 {
+    flex-wrap: wrap;
+  }
+  .get-start-7 {
+    padding-left: 192px;
+    padding-right: 192px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .sustainability1-7 {
+    font-size: 40px;
+  }
+  .key-initiatives-of {
+    font-size: 24px;
+  }
+  .key-initiatives-rectangle-7 {
+    padding-top: 32px;
+    padding-bottom: 44px;
+    box-sizing: border-box;
+  }
+  .join-us-in,
+  .our-approach-to {
+    font-size: 24px;
+  }
+  .join-us-in-builging {
+    gap: 52px;
+  }
+  .success-story {
+    font-size: 24px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .key-initiatives-rectangle-7 {
+    padding-left: 55px;
+    padding-right: 26px;
+    box-sizing: border-box;
+  }
+  .resource-efficiency-wrapper {
+    padding-left: 181px;
+    box-sizing: border-box;
+  }
+  .water-management-description {
+    min-width: 100%;
+  }
+  .water-conservation-description {
+    gap: 20px;
+    min-width: 100%;
+  }
+  .water-management-description-parent-7 {
+    gap: 37px;
+  }
+  .carbon-footprint-description-inner,
+  .clip-path-group1-7 {
+    min-width: 100%;
+  }
+  .carbon-footprint-description {
+    gap: 21px;
+  }
+  .join-us-in-builging {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+  .case-study-1,
+  .case-study2 {
+    padding-bottom: 40px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .frame-group-7 {
+    gap: 25px;
+  }
+  .get-start-7 {
+    padding-left: 96px;
+    padding-right: 96px;
+    box-sizing: border-box;
+  }
+  .sustainability-7 {
+    gap: 49px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .sustainability1-7 {
+    font-size: 30px;
+  }
+  .key-initiatives-of {
+    font-size: 18px;
+  }
+  .key-initiatives-rectangle-7 {
+    padding-left: 20px;
+    padding-top: 21px;
+    padding-bottom: 29px;
+    box-sizing: border-box;
+  }
+  .our-approach-to {
+    font-size: 18px;
+  }
+  .resource-efficiency-wrapper {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+  .water-management-description-parent-7 {
+    gap: 19px;
+  }
+  .join-us-in {
+    font-size: 18px;
+  }
+  .get-invilved {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .join-us-in-builging {
+    gap: 26px;
+  }
+  .success-story {
+    font-size: 18px;
+  }
+  .a-farming-community-implemente-parent-7,
+  .a-large-agribusiness-adopted-c-parent-7 {
+    gap: 25px;
+  }
+  .get-started-with-n3 {
+    font-size: 20px;
+  }
+  .to-see-how-7{
+    font-size: 16px;
+  }
+  .get-start-7 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .sustainability-7 {
+    gap: 24px;
+  }
+}

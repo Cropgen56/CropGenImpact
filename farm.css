@@ -1,0 +1,1366 @@
+
+
+.image-border-icon {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.empowering-agriculture-with,
+.farmers-stakeholders1 {
+  margin: 0;
+  width: 1265px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.farmers-stakeholders1 {
+  position: relative;
+  font-size: inherit;
+  line-height: 69px;
+  max-width: 100%;
+}
+.empowering-agriculture-with {
+  font-size: var(--font-size-11xl);
+  line-height: 41px;
+}
+.empowering-agriculture-with,
+.fs-img,
+.welcome-to-cropgens {
+  position: relative;
+  max-width: 100%;
+}
+.welcome-to-cropgens {
+  width: 1265px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  display: inline-block;
+  z-index: 1;
+}
+.fs-img {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 158px var(--padding-xl) 177px;
+  box-sizing: border-box;
+}
+.benefit-illustration-child {
+  height: 914px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.productivity-background {
+  height: 840px;
+  width: 728px;
+  position: absolute;
+  margin: 0 !important;
+  top: calc(50% - 420px);
+  right: -665px;
+  border-radius: 5px;
+  background-color: var(--color-white);
+  z-index: 1;
+}
+.benefit-illustration {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.key-benefits-child {
+  height: 285px;
+  width: 871px;
+  position: absolute;
+  margin: 0 !important;
+  right: -665px;
+  bottom: -1px;
+  object-fit: cover;
+  z-index: 2;
+}
+.enhanced-productivity {
+  font-family: var(--font-poppins);
+}
+.our-satellite-based-crop {
+  font-weight: 500;
+}
+.enhanced-productivity-our-sat {
+  margin: 0;
+}
+.sustainable-farming-practices1 {
+  font-family: var(--font-poppins);
+}
+.cropgen-promotes-sustainable {
+  font-weight: 500;
+}
+.sustainable-farming-practices {
+  margin: 0;
+}
+.enhanced-productivity-our-sat-container1 {
+  width: 100%;
+}
+.enhanced-productivity-our-sat-container {
+  width: 581px;
+  position: absolute;
+  margin: 0 !important;
+  top: 256px;
+  right: -589.5px;
+  color: var(--color-goldenrod-200);
+  display: flex;
+  align-items: center;
+  z-index: 2;
+}
+.traceability-is-crucial {
+  font-weight: 500;
+}
+.comprehensive-traceability-tr1 {
+  width: 100%;
+}
+.comprehensive-traceability-tr,
+.key-benefits-for {
+  margin: 0 !important;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  z-index: 2;
+}
+.comprehensive-traceability-tr {
+  height: 121px;
+  width: 581px;
+  right: -589.5px;
+  bottom: 274px;
+  max-height: 121px;
+  word-break: break-word;
+}
+.key-benefits-for {
+  width: 427px;
+  top: 127px;
+  right: -435.5px;
+  font-size: var(--font-size-11xl);
+  font-weight: 700;
+  font-family: inherit;
+}
+.key-benefits {
+  flex: 1;
+  flex-direction: row;
+  position: relative;
+  z-index: 2;
+}
+.fs-img-parent,
+.key-benefits,
+.key-benefits-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.key-benefits-wrapper {
+  width: 861px;
+  flex-direction: row;
+  padding: 0 49px;
+  box-sizing: border-box;
+  margin-top: -112px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-200);
+}
+.fs-img-parent {
+  align-self: stretch;
+  flex-direction: column;
+  text-align: center;
+  font-size: 50px;
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.how-cropgen-empowers {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.empowerment-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  font-size: var(--font-size-11xl);
+}
+.group-icon-7 {
+  width: 520px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  min-height: 310px;
+  max-width: 100%;
+}
+.real-time-monitoring {
+  font-family: var(--font-poppins);
+}
+.our-remote-sensing {
+  font-weight: 500;
+}
+.real-time-monitoring-our-remo {
+  margin: 0;
+}
+.data-driven-decision-making {
+  font-family: var(--font-poppins);
+}
+.cropgens-advanced-analytics {
+  font-weight: 500;
+}
+.data-driven-decision-making-c {
+  margin: 0;
+}
+.customized-advisory-services1 {
+  font-family: var(--font-poppins);
+}
+.leveraging-ai-and {
+  font-weight: 500;
+}
+.customized-advisory-services {
+  margin: 0;
+}
+.real-time-monitoring-our-remo-container {
+  align-self: stretch;
+  position: relative;
+}
+.group-parent-7,
+.monitoring-description {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.monitoring-description {
+  width: 642px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) 0 0;
+  box-sizing: border-box;
+  min-width: 642px;
+}
+.group-parent-7 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  color: var(--color-goldenrod-200);
+}
+.traceability {
+  font-family: var(--font-poppins);
+}
+.ensuring-quality-and {
+  font-weight: 500;
+}
+.traceability-ensuring-quality {
+  margin: 0;
+}
+.end-to-end-tracking-cropgens {
+  margin: 0;
+  font-weight: 500;
+}
+.consumer-confidence {
+  font-family: var(--font-poppins);
+}
+.traceability-builds-consumer {
+  font-weight: 500;
+}
+.consumer-confidence-traceabil {
+  margin: 0;
+}
+.compliance-and-certification1 {
+  font-family: var(--font-poppins);
+}
+.our-traceability-solutions {
+  font-weight: 500;
+}
+.compliance-and-certification {
+  margin: 0;
+}
+.traceability-ensuring-quality-container {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 398px;
+  max-width: 100%;
+}
+.clip-path-group-n2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.transparency-description,
+.transparency-icon {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.transparency-icon {
+  height: 339px;
+  width: 559px;
+  flex-direction: column;
+  padding: var(--padding-12xl) 0 0;
+  box-sizing: border-box;
+  min-width: 559px;
+}
+.transparency-description {
+  flex: 1;
+  flex-direction: row;
+  gap: 70px;
+}
+.transparency-description-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-4xs);
+  box-sizing: border-box;
+}
+.empowerment-heading,
+.empowerment-title-parent,
+.transparency-description-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.empowerment-title-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 29px;
+}
+.empowerment-heading {
+  width: 1278px;
+  flex-direction: row;
+  padding: 0 var(--padding-4xs) 48px;
+  box-sizing: border-box;
+  font-size: var(--font-size-base);
+}
+.key-features-for {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.key-features-1-child {
+  height: 97px;
+  width: 692px;
+  position: relative;
+  border-radius: 0 var(--br-11xl) 0 var(--br-11xl);
+  background-color: var(--color-darkslategray-200);
+  display: none;
+  max-width: 100%;
+}
+.satellite-based-crop-monitorin {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.satellite-based-crop-monitorin-container {
+  width: 362px;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.group-icon1-7 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  z-index: 1;
+}
+.key-features-1,
+.key-features-2-child {
+  border-radius: 0 var(--br-11xl) 0 var(--br-11xl);
+  background-color: var(--color-darkslategray-200);
+  max-width: 100%;
+}
+.key-features-1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 33.2px var(--padding-26xl) var(--padding-14xl) var(--padding-24xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+}
+.key-features-2-child {
+  height: 97px;
+  width: 692px;
+  position: relative;
+  display: none;
+}
+.integrated-disease-and-pest-ma {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.integrated-disease-and-container {
+  position: relative;
+  z-index: 1;
+}
+.integrated-disease-and-pest-ma-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3.2px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.group-icon2-7 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  z-index: 1;
+}
+.key-features-2,
+.key-features-3-child {
+  border-radius: 0 var(--br-11xl) 0 var(--br-11xl);
+  background-color: var(--color-darkslategray-200);
+  max-width: 100%;
+}
+.key-features-2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 30.8px var(--padding-26xl) var(--padding-14xl) var(--padding-24xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+}
+.key-features-3-child {
+  height: 97px;
+  width: 692px;
+  position: relative;
+  display: none;
+}
+.yield-prediction-and-harvest-m {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.yield-prediction-and-container {
+  position: relative;
+  z-index: 1;
+}
+.yield-prediction-and-harvest-m-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.8px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.group-icon3-7 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  z-index: 1;
+}
+.key-features-3,
+.key-features-4-child {
+  border-radius: 0 var(--br-11xl) 0 var(--br-11xl);
+  background-color: var(--color-darkslategray-200);
+  max-width: 100%;
+}
+.key-features-3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 32.2px var(--padding-26xl) var(--padding-14xl) var(--padding-24xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+}
+.key-features-4-child {
+  height: 97px;
+  width: 692px;
+  position: relative;
+  display: none;
+}
+.soil-health-analysis {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-8xl);
+}
+.soil-health-analysis-container {
+  position: relative;
+  z-index: 1;
+}
+.soil-health-analysis-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+}
+.group-icon4-7 {
+  height: 30px;
+  width: 30px;
+  position: relative;
+  z-index: 1;
+}
+.key-features-4,
+.key-features-rectangles {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.key-features-4 {
+  align-self: stretch;
+  border-radius: 0 var(--br-11xl) 0 var(--br-11xl);
+  background-color: var(--color-darkslategray-200);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-14xl) var(--padding-26xl) var(--padding-14xl)
+    var(--padding-24xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+}
+.key-features-rectangles {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-6xl);
+  min-width: 450px;
+}
+.clip-path-group1-n2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.features-background {
+  height: 438.5px;
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 24.5px 0 0;
+  box-sizing: border-box;
+  min-width: 600px;
+  max-width: 100%;
+}
+.features-content,
+.key-features-for-farmers-and-s-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.features-content {
+  flex-direction: row;
+  gap: 34px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.key-features-for-farmers-and-s-parent {
+  flex-direction: column;
+  gap: 41px;
+}
+.why-choose-cropgen {
+  margin: 0;
+  height: 45px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.call-to-action-headings {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.ready-to-revolutionize {
+  width: 700px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.call-to-action-headings1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+  font-size: 14px;
+  color: var(--color-goldenrod-200);
+}
+.clip-path-group2-n2 {
+  height: 350px;
+  width: 404.8px;
+  position: absolute;
+  margin: 0 !important;
+  top: -81px;
+  left: -301.8px;
+  object-fit: cover;
+}
+.tailored-solutions {
+  font-family: var(--font-poppins);
+}
+.we-understand-that {
+  font-weight: 500;
+}
+.tailored-solutions-we-underst {
+  margin: 0;
+}
+.tailored-solutions-we-underst-container {
+  align-self: stretch;
+  position: relative;
+}
+.butten-child {
+  height: 50px;
+  width: 250px;
+  position: relative;
+  border-radius: var(--br-3xs) 0 var(--br-3xs) 0;
+  background-color: var(--color-darkslategray-200);
+  display: none;
+}
+.get-started-with {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var();
+  color: var(--color-white);
+  text-align: left;
+  z-index: 1;
+}
+.butten {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-smi) 19px var(--padding-smi) var(--padding-3xl);
+  background-color: var(--color-darkslategray-200);
+  flex: 1;
+  border-radius: var(--br-3xs) 0 var(--br-3xs) 0;
+  flex-direction: row;
+  white-space: nowrap;
+}
+.butten:hover {
+  background-color: #2e807a;
+}
+.butten,
+.solution-button,
+.tailored-rectangle {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.solution-button {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 10px 0 var(--padding-4xs);
+}
+.tailored-rectangle {
+  flex: 1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  flex-direction: column;
+  padding: 16px 23px;
+  gap: var(--gap-xl);
+  z-index: 1;
+}
+.solution-details-child {
+  height: 208px;
+  width: 740px;
+  position: absolute;
+  margin: 0 !important;
+  right: -669px;
+  bottom: -47.5px;
+  object-fit: cover;
+  z-index: 2;
+}
+.solution-content,
+.solution-details {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.solution-details {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+}
+.solution-content {
+  width: 316px;
+  flex-direction: column;
+  padding: 11.5px 0 0;
+  box-sizing: border-box;
+  min-width: 316px;
+}
+.innovative-technology {
+  font-family: var(--font-poppins);
+}
+.cropgen-employs-the {
+  font-weight: 500;
+}
+.innovative-technology-cropgen1 {
+  margin: 0;
+}
+.comprehensive-support-our-tea {
+  margin: 0;
+  font-weight: 500;
+}
+.innovative-technology-cropgen {
+  flex: 1;
+  position: relative;
+  color: var(--color-darkslategray-200);
+  display: inline-block;
+  min-width: 410px;
+  max-width: 100%;
+}
+.call-to-action-content,
+.solution-content-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.solution-content-parent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 38px;
+  font-size: var(--font-size-base);
+  color: var(--color-goldenrod-100);
+}
+.call-to-action-content {
+  width: 985px;
+  flex-direction: column;
+  gap: 15px;
+}
+.call-to-action-content-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 59px 26.5px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.success-story {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.success-story-wrapper {
+  width: 1263px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 6px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+}
+.case-study-images {
+  align-self: stretch;
+  height: 280px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.a-cooperative-of {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+}
+.butten1-child {
+  height: 50px;
+  width: 200px;
+  position: relative;
+  border-radius: 0 var(--br-3xs) 0 var(--br-3xs);
+  background-color: var(--color-goldenrod-100);
+  display: none;
+}
+.case-study-11 {
+  position: relative;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  min-width: 120px;
+  z-index: 1;
+}
+.butten1,
+.case-study-buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.butten1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) 38px var(--padding-2xs) 42px;
+  background-color: var(--color-goldenrod-100);
+  border-radius: 0 var(--br-3xs) 0 var(--br-3xs);
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.butten1:hover,
+.butten2:hover {
+  background-color: var(--color-darkgoldenrod);
+}
+.case-study-buttons {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.case-study-content,
+.case-study-descriptions {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.case-study-descriptions {
+  width: 414px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.case-study-content {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.case-study-1,
+.case-study2-child {
+  border-radius: var(--br-3xs);
+  max-width: 100%;
+}
+.case-study-1 {
+  flex: 1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-darkslategray-100);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-42xl);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  min-width: 404px;
+}
+.case-study2-child {
+  align-self: stretch;
+  height: 280px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.a-large-agribusiness {
+  align-self: stretch;
+  position: relative;
+  font-weight: 500;
+}
+.butten2-child {
+  height: 50px;
+  width: 200px;
+  position: relative;
+  border-radius: 0 var(--br-3xs) 0 var(--br-3xs);
+  background-color: var(--color-goldenrod-100);
+  display: none;
+}
+.case-study-2 {
+  position: relative;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  min-width: 123px;
+  z-index: 1;
+}
+.butten2,
+.butten2-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.butten2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) 37px var(--padding-2xs) var(--padding-21xl);
+  background-color: var(--color-goldenrod-100);
+  border-radius: 0 var(--br-3xs) 0 var(--br-3xs);
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.butten2-wrapper {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+}
+.a-large-agribusiness-utilized-parent {
+  width: 414px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 50px;
+  max-width: 100%;
+}
+.case-study2-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.case-study2 {
+  flex: 1;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray-100);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-42xl);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  min-width: 404px;
+}
+.case-study-1-parent,
+.case-study2,
+.empowerment-content {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.case-study-1-parent {
+  width: 1263px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--gap-lgi);
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.empowerment-content {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 51px;
+}
+.empowerment-content-wrapper {
+  width: 1456px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 65px var(--padding-14xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-poppins);
+}
+.contact-background-icon-6 {
+  height: 100%;
+  width: 100%;
+
+  object-fit: cover;
+  position: absolute;
+  left: 0;
+  top: 0;
+  transform: scale(1.047);
+}
+.wrapper-contact-background-6 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  max-height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.get-started-with1,
+.to-see-how {
+  position: absolute;
+  margin: 0 !important;
+  left: 30px;
+}
+.get-started-with1 {
+  top: 17px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.to-see-how {
+  width: 421.4px;
+  top: 61px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+}
+.form-fields,
+.form-fields-child {
+  height: 45px;
+  border-radius: var(--br-3xs);
+}
+.form-fields {
+  width: 413.2px;
+  border: 0;
+  outline: 0;
+  background-color: var(--color-white);
+  margin: 0 !important;
+  position: absolute;
+  top: 97px;
+  left: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-11xl);
+  box-sizing: border-box;
+  font-family: var(--font-poppins);
+  font-weight: 500;
+  font-size: var(--font-size-base);
+  color: #a1a1a1;
+}
+.form-fields-child {
+  width: 204.5px;
+  position: relative;
+  background-color: var(--color-darkslategray-100);
+  display: none;
+}
+.submit {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 61px;
+  z-index: 1;
+  bottom: 5px;
+}
+.contact-form-6,
+.form-fields1-6,
+.wrapper-contact-background-parent-6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.form-fields1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-2xs) 71px;
+  background-color: var(--color-darkslategray-100);
+  margin: 0 !important;
+  position: absolute;
+  top: 97px;
+  left: 490.2px;
+  border-radius: var(--br-3xs);
+}
+.form-fields1:hover {
+  background-color: #4d806e;
+}
+.contact-form-6,
+.wrapper-contact-background-parent-6 {
+  box-sizing: border-box;
+  position: relative;
+  max-width: 100%;
+}
+.contact-form-6 {
+  height: 189px;
+  width: 725px;
+  border-radius: 18px;
+  background-color: rgba(51, 199, 187, 0.7);
+  flex-wrap: wrap;
+  padding: 17px var(--padding-11xl);
+  gap: 6px 45px;
+  z-index: 1;
+}
+.wrapper-contact-background-parent-6 {
+  align-self: stretch;
+  height: 298px;
+  padding: 44px 385px;
+  text-align: left;
+  font-size: 25px;
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.farmers-stakeholders {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 91px;
+  line-height: normal;
+  letter-spacing: normal;
+  margin-bottom: -50px;
+}
+@media screen and (max-width: 1275px) {
+  .group-icon-7,
+  .monitoring-description {
+    flex: 1;
+  }
+  .group-parent-7 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .clip-path-group1-n2 {
+    align-self: stretch;
+    width: auto;
+  }
+  .features-background {
+    flex: 1;
+  }
+  .features-content {
+    flex-wrap: wrap;
+  }
+  .call-to-action-content-wrapper {
+    padding-left: var(--padding-10xl);
+    padding-right: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  .empowerment-content-wrapper {
+    padding-left: var(--padding-13xl);
+    padding-right: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+  .wrapper-contact-background-parent-6 {
+    padding-left: var(--padding-173xl);
+    padding-right: var(--padding-173xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .key-benefits-wrapper {
+    padding-left: var(--padding-5xl);
+    padding-right: var(--padding-5xl);
+    box-sizing: border-box;
+  }
+  .monitoring-description {
+    min-width: 100%;
+  }
+  .clip-path-group-n2 {
+    align-self: stretch;
+    width: auto;
+  }
+  .transparency-icon {
+    flex: 1;
+  }
+  .transparency-description {
+    flex-wrap: wrap;
+  }
+  .empowerment-heading {
+    padding-bottom: var(--padding-12xl);
+    box-sizing: border-box;
+  }
+  .solution-content {
+    flex: 1;
+  }
+  .solution-content-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .farmers-stakeholders1 {
+    font-size: 40px;
+    line-height: 55px;
+  }
+  .empowering-agriculture-with {
+    font-size: var(--font-size-5xl);
+    line-height: 33px;
+  }
+  .fs-img {
+    padding-top: 103px;
+    padding-bottom: 115px;
+    box-sizing: border-box;
+  }
+  .how-cropgen-empowers,
+  .key-benefits-for {
+    font-size: var(--font-size-5xl);
+  }
+  .traceability-ensuring-quality-container,
+  .transparency-icon {
+    min-width: 100%;
+  }
+  .transparency-description {
+    gap: 35px;
+  }
+  .key-features-for {
+    font-size: var(--font-size-5xl);
+  }
+  .key-features-1,
+  .key-features-2,
+  .key-features-3 {
+    flex-wrap: wrap;
+  }
+  .key-features-1,
+  .key-features-2,
+  .key-features-3,
+  .key-features-4 {
+    padding-left: var(--padding-2xl);
+    padding-right: var(--padding-3xl);
+    box-sizing: border-box;
+  }
+  .features-background,
+  .key-features-rectangles {
+    min-width: 100%;
+  }
+  .features-content {
+    gap: var(--gap-mid);
+  }
+  .key-features-for-farmers-and-s-parent {
+    gap: var(--gap-xl);
+  }
+  .why-choose-cropgen {
+    font-size: var(--font-size-5xl);
+  }
+  .innovative-technology-cropgen {
+    min-width: 100%;
+  }
+  .solution-content-parent {
+    gap: var(--gap-lgi);
+  }
+  .success-story {
+    font-size: var(--font-size-5xl);
+  }
+  .case-study-1,
+  .case-study2 {
+    padding-bottom: var(--padding-21xl);
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .empowerment-content {
+    gap: var(--gap-6xl);
+  }
+  .wrapper-contact-background-parent-6 {
+    padding-left: var(--padding-77xl);
+    padding-right: var(--padding-77xl);
+    box-sizing: border-box;
+  }
+  .farmers-stakeholders {
+    gap: 45px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .farmers-stakeholders1 {
+    font-size: var(--font-size-11xl);
+    line-height: 41px;
+  }
+  .empowering-agriculture-with {
+    line-height: 25px;
+  }
+  .empowering-agriculture-with,
+  .how-cropgen-empowers,
+  .key-benefits-for {
+    font-size: var(--font-size-lg);
+  }
+  .transparency-description {
+    gap: var(--gap-mid);
+  }
+  .empowerment-heading {
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .key-features-for {
+    font-size: var(--font-size-lg);
+  }
+  .integrated-disease-and-container,
+  .satellite-based-crop-monitorin-container,
+  .soil-health-analysis-container,
+  .yield-prediction-and-container {
+    font-size: var(--font-size-base);
+  }
+  .key-features-4 {
+    flex-wrap: wrap;
+  }
+  .success-story,
+  .why-choose-cropgen {
+    font-size: var(--font-size-lg);
+  }
+  .case-study-descriptions {
+    gap: 16px;
+  }
+  .a-large-agribusiness-utilized-parent {
+    gap: var(--gap-6xl);
+  }
+  .get-started-with1 {
+    font-size: var(--font-size-xl);
+  }
+  .to-see-how {
+    font-size: var(--font-size-base);
+  }
+  .wrapper-contact-background-parent-6 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .farmers-stakeholders {
+    gap: 23px;
+  }
+}
